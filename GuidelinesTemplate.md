@@ -22,6 +22,6 @@ By participating this community, you agree not to engage in any illegal, unethic
 
 By participating this community, you understand that all content is moderated to ensure safety, preserve continuity of conversation and to prevent spam and unsolicited communications not related to the community. Moderators will use their best judgement to ensure posts are categorized in the correct section and that members are abiding by these Community Guidelines. Moderators of this group are authorized to ban users at any time without prior notice for violation of these guidelines.
 
-## 4. Legal Considerations
+## 4. Legal Information
 
-You participate in this community at your own risk. The owner, moderators and participants assume no liability for the result of any harm or damages you suffer by your participation in this community. All illegal activity will be reported to appropriate law enforcement.
+These Community Guidlines are not a legal document, but merely a set of rules under which this community is moderated. For legal information pertaining to your use of Google's products, such as this Google+ Community, please consult Google's Terms of Service (http://www.google.com/intl/en/policies/terms/)

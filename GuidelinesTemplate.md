@@ -1,5 +1,8 @@
 Community Guidelines
+====================
+
 A Live Template Document for Google+ Community Moderators
+---------------------------------------------------------
 
 Growing a community takes a lot of patience, but most importantly a lot of work. Because most of the community moderators within Google+ are creating communities on their own personal time, it only makes sense that we work together to create the tools we need to grow and maintain successful communities.
 
@@ -7,18 +10,18 @@ There are three elements that a community needs to flourish: safety, freedom and
 
 The purpose of this document is to create and improve upon a general set of community guidelines that all community moderators can adopt and tweak for their individual communities. By working on this project together, we will be rewarded with a comprehensive and valuable tool that we can all use freely to help improve our communities.
 
-1. Privacy
+## 1. Privacy
 
 By participating this community, you understand that all information shared will be publicly accessible through search. By participating in this community you also agree that you will not publicly expose any private information about other members of this community.
 
-2. Conduct
+## 2. Conduct
 
 By participating this community, you agree not to engage in any illegal, unethical or otherwise ill-conceived conduct. You understand that any misconduct such as trolling, bullying, hate speech, intolerance or otherwise ill-conceived behavior will not be tolerated. You may be banned from this community, reported to Google or local law enforcement as necessary with no prior warning if you engage in such activity.
 
-3. Moderation
+## 3. Moderation
 
 By participating this community, you understand that all content is moderated to ensure safety, preserve continuity of conversation and to prevent spam and unsolicited communications not related to the community. Moderators will use their best judgement to ensure posts are categorized in the correct section and that members are abiding by these Community Guidelines. Moderators of this group are authorized to ban users at any time without prior notice for violation of these guidelines.
 
-4. Legal Considerations
+## 4. Legal Considerations
 
 You participate in this community at your own risk. The owner, moderators and participants assume no liability for the result of any harm or damages you suffer by your participation in this community. All illegal activity will be reported to appropriate law enforcement.
